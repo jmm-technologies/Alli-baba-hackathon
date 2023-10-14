@@ -1,0 +1,6 @@
+[submodule "DoaedAI"]
+	path = DoaedAI
+	url = https://github.com/jmm-technologies/DoaedAI
+[submodule "hackathon-frontend"]
+	path = hackathon-frontend
+	url = https://github.com/jmm-technologies/hackathon-frontend
